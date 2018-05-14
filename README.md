@@ -1,2 +1,2 @@
 # start-tempalte
-# start-tempalte
+Стартовый шаблон для верстки (sass + gulp)
